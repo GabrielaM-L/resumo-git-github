@@ -19,5 +19,11 @@
 4º) Usar o comando git clone código do repositório.
 
 
+### Enviar repositório e/ou modificações locais para repositório remoto:
 
+1º) Na pasta criada ou modificada, abrir o gitbash.
+2º) Usar o comando git add . (adiciona todos os arquivos modificados/criados).
+3º) Usar comando git commit -m "mensagem do commit".
+4º) Usar o comando git push origin main (ou master).
 
+* Git status: mostra o status do versionamento. 
