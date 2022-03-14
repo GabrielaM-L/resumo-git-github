@@ -27,3 +27,10 @@
 4º) Usar o comando git push origin main (ou master).
 
 * Git status: mostra o status do versionamento. 
+
+
+
+### Atualizar repositório local com modificações do repositório remoto:
+
+1º) Abrir o gitbash na pasta selecionada.
+2º) Usar o comando git pull.
